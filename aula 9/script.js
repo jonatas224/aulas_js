@@ -9,4 +9,4 @@ novoElemento.textContent = 'meu paragrafo'
 
 container.appendChild(novoElemento)
 
-container.innerHTML += `<p class='paragrafo'>Meu paragrafo com InnerHTML</p>`
+container.innerHTML += `<p class='paragrafo2'>Meu paragrafo com InnerHTML</p>`
