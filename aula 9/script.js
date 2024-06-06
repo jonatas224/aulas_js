@@ -3,9 +3,9 @@
 let container = document.querySelector('.container')
 console.log(container)
 
-let novoElemento = document.createElement('p')
-novoElemento.className = 'paragrafo'
-novoElemento.textContent = 'meu paragrafo'
+let novoParagrafo = document.createElement('p')
+novoParagrafo.className = 'paragrafo'
+novoParagrafo.textContent = 'meu paragrafo'
 
 container.appendChild(novoElemento)
 
