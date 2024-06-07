@@ -27,6 +27,7 @@ li.className = 'feito'
     buttonDeleter.addEventListener("click", function () {
       lista.removeChild(li);
     });
+li.appendChild(inputcheck)
 
     li.appendChild(buttonDeleter);
     lista.appendChild(li);
