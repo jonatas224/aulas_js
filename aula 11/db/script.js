@@ -1,6 +1,6 @@
 // import * from ('./db/estado.json')
-async function carregadorDados
+// async function carregadorDados
 
 function carregadorDados(){
-     const response = await fetch('estado.json')
+    //  const response = await fetch('estado.json')
 }
